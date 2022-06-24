@@ -8,7 +8,8 @@
 </div>
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Janderson-Weller&show_icons=true&theme=dark&include_all_commits=false)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Janderson-Weller&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janderson-Weller)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="50px">
