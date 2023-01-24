@@ -4,7 +4,7 @@
   <p> - 🔭 Atualmente estudo Engenharia da Computação;</p>
   <p> - 🌱 Estou apredendo mais sobre IoT, Ciência de Dados e Inteligência Artificial;</p>
   <p> - 👯 Gosto de colaborar em grupos relacionados à codificação no Facebook;</p>
-  <p> - 🤔 Estou em busca de um trabalho na área de desenvolvimento, seja front ou back;</p>
+  <p> - 🤔 Atualmente trabalho na Jolifox como desenvolvendor Full Stack com foco em Java com Spring, no front end trabalho com react;</p>
 </div>
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Janderson-Weller&show_icons=true&theme=dark&include_all_commits=false)
