@@ -1,7 +1,7 @@
 ### Olá, tudo bem? 👋 sou o Janderson Weller
 
 <div style="display: flex background-color:red">
-  <p> - 🔭 Atualmente estudo Engenharia da Computação;</p>
+  <p> - 🔭 Formado em Engenharia da Computação;</p>
   <p> - 🌱 Estou apredendo mais sobre IoT, Ciência de Dados e Inteligência Artificial;</p>
   <p> - 👯 Gosto de colaborar em grupos relacionados à codificação no Facebook;</p>
   <p> - 🤔 Atualmente trabalho na Jolifox como desenvolvendor Full Stack com foco em Java com Spring, no front end trabalho com react;</p>
